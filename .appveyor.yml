@@ -1,0 +1,4 @@
+image: macOS
+
+install:
+- sh: curl -sflL 'https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-vnc.sh' | bash -e -
